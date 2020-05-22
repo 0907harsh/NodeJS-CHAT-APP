@@ -68,5 +68,5 @@ io.on('connection',(socket)=>{
 
 
 server.listen(port,()=>{
-    console.log('Serevr s up on port'+port)
+    console.log('Server s up on port:'+port)
 })
